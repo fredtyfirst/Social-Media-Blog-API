@@ -1,7 +1,6 @@
 package DAO;
 
 import Model.Message;
-import Model.Account;
 
 import Util.ConnectionUtil;
 
